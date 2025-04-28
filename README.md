@@ -5,6 +5,7 @@ CPU : Intel Core i5-1035G1
 WLAN : Intel Wireless 9560
 Storage : Samsung NVME + Sata SSD (mac os installed on sata SSD)
 Touchpad : ELAN
+Audio : realtek
 
 Whats Work:
 GPU
