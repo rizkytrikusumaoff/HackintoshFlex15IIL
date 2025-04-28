@@ -6,12 +6,13 @@ WLAN : Intel Wireless 9560
 Storage : Samsung NVME + Sata SSD (mac os installed on sata SSD)
 Touchpad : ELAN
 
-Whats Work
+Whats Work:
 GPU
 WLAN
 Bluetooth
 Touchpad
 Touchscreen
+Audio
 
-Whats NOtwork
-HDMI
+Whats NOtwork :
+HDMI (never work in ice lake architecture)
